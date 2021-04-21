@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Link to web demo 👉 https://hulu2-0.vercel.app/![hulu](https://user-images.githubusercontent.com/61581525/115547129-87775800-a2c3-11eb-930f-070f47c33650.PNG)
+
 
 First, run the development server:
 
