@@ -6,7 +6,7 @@ Link to web demo 👉 https://hulu2-0.vercel.app/
 ![hulu](https://user-images.githubusercontent.com/61581525/115547129-87775800-a2c3-11eb-930f-070f47c33650.PNG)
 
 
-First, run the development server:
+First, run the development server
 
 ```bash
 npm run dev
